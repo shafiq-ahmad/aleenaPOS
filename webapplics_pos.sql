@@ -81,7 +81,7 @@ CREATE TABLE `article_cats` (
 --
 
 INSERT INTO `article_cats` (`id`, `cat_code`, `title`, `title_urdu`, `published`, `discount_per`, `gst_per`, `visibility`, `branch_id`, `parent_cat`, `business_type`) VALUES
-(1, NULL, NULL, NULL, 1, '0', '0', 2, 101, NULL, 0),
+(1, NULL, NULL, NULL, 1, '0', '0', 2, 101, NULL, 0);
 
 -- --------------------------------------------------------
 
